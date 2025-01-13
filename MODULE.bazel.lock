@@ -1825,7 +1825,7 @@
         "recordedFileInputs": {
           "@@rules_python~//tools/publish/requirements_linux.txt": "8175b4c8df50ae2f22d1706961884beeb54e7da27bd2447018314a175981997d",
           "@@rules_fuzzing~//fuzzing/requirements.txt": "ab04664be026b632a0d2a2446c4f65982b7654f5b6851d2f9d399a19b7242a5b",
-          "@@//requirements.txt": "d9ef4754d8cab4db8fae72eb526f51a97dc25ac8b76c7b5ab99ccd6f1ad7c727",
+          "@@//requirements.txt": "964924921b74668f6a1b9ca6fb49bfff12ebe6c3287a570de4d967cb90123a24",
           "@@rules_python~//tools/publish/requirements_windows.txt": "7673adc71dc1a81d3661b90924d7a7c0fc998cd508b3cb4174337cef3f2de556",
           "@@protobuf~//python/requirements.txt": "983be60d3cec4b319dcab6d48aeb3f5b2f7c3350f26b3a9e97486c37967c73c5",
           "@@rules_python~//tools/publish/requirements_darwin.txt": "2994136eab7e57b083c3de76faf46f70fad130bc8e7360a7fed2b288b69e79dc"
@@ -2283,7 +2283,7 @@
               "dep_template": "@pip//{name}:{target}",
               "python_interpreter_target": "@@rules_python~~python~python_3_13_host//:python",
               "repo": "pip_313",
-              "requirement": "jupyterlab==4.2.5     --hash=sha256:73b6e0775d41a9fee7ee756c80f58a6bed4040869ccc21411dc559818874d321     --hash=sha256:ae7f3a1b8cb88b4f55009ce79fa7c06f99d70cd63601ee4aa91815d054f46f75"
+              "requirement": "jupyterlab==4.2.7     --hash=sha256:7353c0704aec0e1219eb1e376c2d51f855a2522605f9ecdcab4993c006991ea3     --hash=sha256:a16a10a114360a4249c855e382b95260ebf2b91341884739dde954936096684d"
             }
           },
           "pip_313_jupyterlab_pygments": {
