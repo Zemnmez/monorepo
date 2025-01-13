@@ -592,9 +592,9 @@ nest-asyncio==1.6.0 \
     --hash=sha256:6f172d5449aca15afd6c646851f4e31e02c598d553a667e38cafa997cfec55fe \
     --hash=sha256:87af6efd6b5e897c81050477ef65c62e2b2f35d51703cae01aff2905b1852e1c
     # via ipykernel
-notebook==7.2.2 \
-    --hash=sha256:2ef07d4220421623ad3fe88118d687bc0450055570cdd160814a59cf3a1c516e \
-    --hash=sha256:c89264081f671bc02eec0ed470a627ed791b9156cad9285226b31611d3e9fe1c
+notebook==7.3.2 \
+    --hash=sha256:705e83a1785f45b383bf3ee13cb76680b92d24f56fb0c7d2136fe1d850cd3ca8 \
+    --hash=sha256:e5f85fc59b69d3618d73cf27544418193ff8e8058d5bf61d315ce4f473556288
     # via
     #   -r requirements.in
     #   jupyter
